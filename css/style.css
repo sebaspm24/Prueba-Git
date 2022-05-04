@@ -19,3 +19,11 @@ body {
     font-size: 20px;
 
 }
+
+#cabecera {
+    background-color: aqua;
+    color: white;
+    font-size: x-large;
+    display: inline-flex;
+    width: 100%;
+}
