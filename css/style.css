@@ -27,3 +27,7 @@ body {
     display: inline-flex;
     width: 100%;
 }
+p {
+    font-size: 4rem;
+    color: black;
+}
